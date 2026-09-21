@@ -63,3 +63,10 @@ Proyecto Integrador Final de Henry. SPA de gestión de tareas corporativas.
 ---
 
 ![Visitas](https://komarev.com/ghpvc/?username=ReichMateo&label=Visitas+al+perfil&color=2F81F7&style=flat)
+
+---
+
+### 🤝 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-david-reich-865a623ab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateodavidreich@gmail.com)
